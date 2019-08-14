@@ -1,5 +1,4 @@
 # zabbix
-zabbix templates
 Template for aruba virtual controller tested on iAP 103,205,207
 Import MIBS into your OS
 Import Template into zabbix
